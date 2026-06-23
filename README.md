@@ -43,6 +43,7 @@
 | 💼 Portfolio | My personal developer portfolio | [View](https://abubakar-portfolio-sage.vercel.app) |
 | 💬 Chat App | Real-time chat application | [View](https://chate-frontend-3sso.vercel.app) |
 | 📊 CMS Dashboard | Content management system | [View](https://cms-frontend-three-kohl.vercel.app) |
+| 🤖 AI Resume Builder | AI powered resume generator with 3 templates | [View](https://ai-resume-builder-nu-ochre.vercel.app) |
 
 ---
 
