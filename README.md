@@ -69,9 +69,6 @@
   <a href="https://www.linkedin.com/in/muhammed-abubakar-4479563a6/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.fiverr.com/abubakarcode" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
-  </a>
   <a href="https://abubakar-portfolio-sage.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
   </a>
