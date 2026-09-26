@@ -27,7 +27,7 @@
  
 Full stack developer based in Karachi, Pakistan. I build web applications with the MERN stack and integrate LLM APIs to ship AI-powered features that actually work in production.
  
-Currently at**[Revolix Technologies](https://www.revolixtech.com/)**as Full Stack Developer an AI software company working on real client projects. Before that, I built and shipped multiple full-stack products independently, including an AI chat platform, an enterprise project management tool, and a Postman Collection AI Agent published to **PyPI** and the **VS Code Marketplace**.
+Currently working full-time as a Full Stack Developer at **[Revolix Technologies](https://www.revolixtech.com/)** an AI software company building and shipping real client projects. Before that, I built and shipped multiple full-stack products independently, including an AI chat platform, an enterprise project management tool, and a Postman Collection AI Agent published to **PyPI** and the **VS Code Marketplace**.
  
 Certified in Full Stack MERN Development and Web & Mobile Frontend Development through **Jawan Pakistan**.
  
